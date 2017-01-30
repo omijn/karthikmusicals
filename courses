@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<title>Virtuoso's Philharmonic School of Music</title>
+<link rel=canonical href=http://www.karthikmusicals.com>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=keywords content="Karthik, Musicals, class, Virtuoso, Philharmonic, school, Vellore">
+<meta name=description content="Virtuoso's is a music school in Vellore ,Tamil Nadu. We offer the best courses for learning to play instruments.">
+<meta name=author content="Abhijit Kashyap">
+<link rel=icon type=image/ico href=favicon.ico>
+<link rel="shortcut icon" href=favicon.ico>
+<meta property=og:title content="Music Classes in Vellore">
+<meta property=og:site_name content="Virtuoso's Philharmonic School of Music">
+<meta property=og:url content=http://www.karthikmusicals.com>
+<meta property=og:description content="Virtuoso's is a music school in Vellore ,Tamil Nadu. We offer the best courses for learning to play instruments.">
+<meta property=og:image content=http://www.karthikmusicals.com/images/logo.png>
+<meta property=og:type content=website>
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<link href=css/font.css rel=stylesheet>
+<link rel=stylesheet href=fonts/font-awesome-4.2.0/css/font-awesome.min.css>
+<link href=css/bootstrap.min.css rel=stylesheet>
+<link href=css/courses.css rel=stylesheet>
+<link href=css/style.css rel=stylesheet>
+<script>(function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-57562471-1","auto");ga("send","pageview");</script>
+<!--[if lt IE 9]>
+<script src=https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js></script>
+<script src=https://oss.maxcdn.com/respond/1.4.2/respond.min.js></script>
+<![endif]-->
+<script src='/google_analytics_auto.js'></script></head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role=navigation>
+<div class=container>
+<div class=navbar-header>
+<button type=button class="navbar-toggle collapsed" data-toggle=collapse data-target=#navbar aria-expanded=false aria-controls=navbar>
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+</button>
+<a class=navbar-brand href=http://www.karthikmusicals.com><i class="fa fa-home"></i> Home</a>
+</div>
+<div id=navbar class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a href=about>About Us</a></li>
+<li><a href=courses>Courses</a></li>
+<li><a href=ensemble>Ensemble</a></li>
+<li><a href=school>Schools</a></li>
+<li><a href=policy>Policies</a></li>
+<li><a href=testimonial>Testimonials</a></li>
+<li><a href=contact>Contact</a></li>
+<li><a href=http://www.guitarestores.com/ target=_blank>Music Store &nbsp;<i class="fa fa-external-link"></i></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container content">
+<h2>Courses</h2>
+<p>We offer a wide range of courses.</p>
+<p>Click on an instrument to know more about it.</p>
+<noscript>
+<div class="alert alert-warning" role=alert style=font-size:1.3em>
+<strong>Alert! </strong>Please enable JavaScript to view this information. This can be done in your browser's settings.
+</div>
+</noscript>
+<div class=courseList>
+<a class="instrument heading" style=clear:left>KEYBOARDS</a>
+<a href class="instrument last" data-toggle=modal data-target=#piano>PIANO</a>
+<a class="instrument heading" style=clear:left>STRINGS</a>
+<a href class=instrument data-toggle=modal data-target=#mandolin>MANDOLIN</a>
+<a href class=instrument data-toggle=modal data-target=#acoustic>ACOUSTIC GUITAR</a>
+<a href class=instrument data-toggle=modal data-target=#bassguitar>BASS GUITAR</a>
+<a href class=instrument data-toggle=modal data-target=#violin>VIOLIN</a>
+<a href class=instrument data-toggle=modal data-target=#viola>VIOLA</a>
+<a href class=instrument data-toggle=modal data-target=#cello>CELLO</a>
+<a href class="instrument last" data-toggle=modal data-target=#dbass>DOUBLE BASS</a>
+<a class="instrument heading" style=clear:left>WOODWIND</a>
+<a href class=instrument data-toggle=modal data-target=#recorder>RECORDER</a>
+<a href class=instrument data-toggle=modal data-target=#fife>FIFE</a>
+<a href class=instrument data-toggle=modal data-target=#flute>FLUTE</a>
+<a href class=instrument data-toggle=modal data-target=#oboe>OBOE</a>
+<a href class=instrument data-toggle=modal data-target=#clarinet>CLARINET</a>
+<a href class="instrument last" data-toggle=modal data-target=#saxophone>SAXOPHONE</a>
+<a class="instrument heading" style=clear:left>BRASS</a>
+<a href class=instrument data-toggle=modal data-target=#trumpet>TRUMPET</a>
+<a href class=instrument data-toggle=modal data-target=#horn>FRENCH HORN</a>
+<a href class=instrument data-toggle=modal data-target=#trombone>TROMBONE</a>
+<a href class="instrument" data-toggle=modal data-target=#euphonium>EUPHONIUM</a>
+<a href class="instrument last" data-toggle=modal data-target=#tuba>TUBA</a>
+<a class="instrument heading" style=clear:left>PERCUSSION</a>
+<a href class="instrument last" data-toggle=modal data-target=#drums>DRUMS</a>
+</div>
+<div class="modal fade" id=piano tabindex=-1 role=dialog aria-labelledby=pianoLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=pianoLabel>Piano</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/9wxrB41PMhw frameborder=0 allowfullscreen></iframe>
+<p>A piano is large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are depressed. The strings' vibration is stopped by dampers when the keys are released and can be regulated for length and volume by two or three pedals.<br/><a href=http://en.wikipedia.org/wiki/Piano target=_blank>Piano - Wikipedia</a></p>
+<img src=images/piano.jpg alt=piano.jpg title="Piano"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=acoustic tabindex=-1 role=dialog aria-labelledby=acousticLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=acousticLabel>Acoustic Guitar</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/TFjmvfRvjTc frameborder=0 allowfullscreen></iframe>
+<p>An acoustic guitar is a hollow-bodied guitar without electric amplification. It may have nylon or steel strings. It uses a sound board and a sound box to amplify the vibrations of the string. Historical and modern acoustic guitars are extremely varied in their design and construction.<br/><a href=http://en.wikipedia.org/wiki/Acoustic_guitar target=_blank>Acoustic guitar - Wikipedia</a></p>
+<img src=images/acousticguitar.jpg alt=acousticguitar.jpg title="Acoustic Guitar"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=bassguitar tabindex=-1 role=dialog aria-labelledby=bassguitarLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=bassguitarLabel>Bass Guitar</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/FDKDdVilQT4 frameborder=0 allowfullscreen></iframe>
+<p>The bass guitar (also called electric bass) is a stringed instrument played primarily with the fingers or thumb, by plucking, slapping, popping, tapping, thumping, or picking with a plectrum. The bass guitar is similar in appearance and construction to an electric guitar, but with a longer neck and scale length, and four to six strings or courses. The four-string bass is by far the most common. The role of a bassist is to anchor the harmonic framework and establish the beat.<br/><a href=http://en.wikipedia.org/wiki/Bass_guitar target=_blank>Bass guitar - Wikipedia</a></p>
+<img src=images/bassguitar.jpg alt=bassguitar.jpg title="Bass Guitar"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=violin tabindex=-1 role=dialog aria-labelledby=violinLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=violinLabel>Violin</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/jYoq2Nijqvw frameborder=0 allowfullscreen></iframe>
+<p>The violin, also known as a fiddle, is a string instrument, usually with four strings tuned in perfect fifths. It is the smallest, highest-pitched member of the violin family of string instruments. Sound is produced by drawing a bow across one or more strings, by plucking the strings, or by a variety of other techniques. The violin is played by musicians in a wide variety of musical genres, including Baroque music, classical, jazz, folk music, rock and roll, and soft rock.<br/><a href=http://en.wikipedia.org/wiki/Violin target=_blank>Violin - Wikipedia</a></p>
+<img src=images/violin.jpg alt=violin.jpg title="Violin"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=viola tabindex=-1 role=dialog aria-labelledby=violaLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=violaLabel>Viola</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/Xe11Pp1g39I frameborder=0 allowfullscreen></iframe>
+<p>The viola is a bowed string instrument. It is slightly larger than a violin in size and has a deeper sound. Since the 18th century it has been the middle voice of the violin family, between the violin (which is tuned a perfect fifth above it) and the cello (which is tuned an octave below it).<br/><a href=http://en.wikipedia.org/wiki/Viola target=_blank>Viola - Wikipedia</a></p>
+<img src=images/viola.jpg alt=viola.jpg title="Viola"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=cello tabindex=-1 role=dialog aria-labelledby=celloLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=celloLabel>Cello</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/zaLoBdqcvVY frameborder=0 allowfullscreen></iframe>
+<p>The violoncello, abbreviated as cello, is a bowed string instrument with four strings tuned in perfect fifths. It is a member of the violin family of musical instruments. The cello is used as a solo musical instrument, as well as in chamber music ensembles, string orchestras, and as a member of the string section of symphony orchestras.<br/><a href=http://en.wikipedia.org/wiki/Cello target=_blank>Cello - Wikipedia</a></p>
+<img src=images/cello.jpg alt=cello.jpg title="Cello"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=dbass tabindex=-1 role=dialog aria-labelledby=dbassLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=dbassLabel>Double Bass</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/QupB4NN8fI0 frameborder=0 allowfullscreen></iframe>
+<p>The double bass, or upright bass, is the largest and lowest-pitched bowed string instrument of the viol family in the modern symphony orchestra, with strings usually tuned to E1, A1, D2 and G2. The bass is used in a range of genres, such as jazz, 1950s-style blues and rock and roll, rockabilly/psychobilly, traditional country music, bluegrass, tango and many types of folk music. The double bass is played either with a bow (arco) or by plucking the strings (pizzicato).<br/><a href=http://en.wikipedia.org/wiki/Double_bass target=_blank>Double Bass - Wikipedia</a></p>
+<img src=images/doublebass.jpg alt=doublebass.jpg title="Double Bass"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=mandolin tabindex=-1 role=dialog aria-labelledby=mandolinLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=mandolinLabel>Mandolin</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/N6exNzIfcUM frameborder=0 allowfullscreen></iframe>
+<p>A mandolin is a musical instrument in the lute family (plucked, or strummed). It usually has four courses of doubled strings. The two strings in each course are tuned in unison. The courses are tuned in a succession of perfect fifths, and plucked with a plectrum.<br/><a href=http://en.wikipedia.org/wiki/Mandolin target=_blank>Mandolin - Wikipedia</a></p>
+<img src=images/mandolin.jpg alt=mandolin.jpg title="Mandolin"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=recorder tabindex=-1 role=dialog aria-labelledby=recorderLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=recorderLabel>Recorder</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/8c9jEvXMm0c frameborder=0 allowfullscreen></iframe>
+<p>The recorder is a family of woodwind musical instruments of the group known as fipple flutes. The recorder is end-blown and the mouth of the instrument is constricted by a wooden plug, known as a block or fipple. It is distinguished from other members of the family by having holes for seven fingers (the lower one or two often doubled to facilitate the production of semitones) and one for the thumb of the uppermost hand.<br/><a href=http://en.wikipedia.org/wiki/Recorder_(musical_instrument) target=_blank>Recorder - Wikipedia</a></p>
+<img src=images/recorder.jpg alt=recorder.jpg title="Recorder"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=flute tabindex=-1 role=dialog aria-labelledby=fluteLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=fluteLabel>Flute</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/HKi4RycPAj0 frameborder=0 allowfullscreen></iframe>
+<p>The flute is a family of musical instrument of the woodwind group. Unlike woodwind instruments with reeds, a flute is an aerophone or reedless wind instrument that produces its sound from the flow of air across an opening. Flutes are one of the earliest known musical instruments.<br/><a href=http://en.wikipedia.org/wiki/Flute target=_blank>Flute - Wikipedia</a></p>
+<img src=images/flute.jpg alt=flute.jpg title="Flute"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=fife tabindex=-1 role=dialog aria-labelledby=fifeLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=fifeLabel>Fife</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/o1WPnnvs00I frameborder=0 allowfullscreen></iframe>
+<p>A fife is a small, high-pitched, transverse flute, that is similar to the piccolo, but louder and shriller due to its narrower bore. The fife originated in medieval Europe and is often used in military and marching bands. They are made mostly of wood.<br/><a href=http://en.wikipedia.org/wiki/Fife_(instrument) target=_blank>Fife - Wikipedia</a></p>
+<img src=images/fife.jpg alt=fife.jpg title="Fife"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=oboe tabindex=-1 role=dialog aria-labelledby=oboeLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=oboeLabel>Oboe</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/ateQQc-AgEM frameborder=0 allowfullscreen></iframe>
+<p>The oboe is a family of double reed woodwind musical instruments. The most commonly used variant, the standard oboe, plays in the treble or soprano range. It is made from a wooden tube roughly 65 cm (25.5 inches) long, with metal keys, a conical bore and flared bell. Sound is produced by blowing into the reed and vibrating a column of air.<br/><a href=http://en.wikipedia.org/wiki/Oboe target=_blank>Oboe - Wikipedia</a></p>
+<img src=images/oboe.jpg alt=oboe.jpg title="Oboe"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=clarinet tabindex=-1 role=dialog aria-labelledby=clarinetLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=clarinetLabel>Clarinet</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/8v10ijsHQaY frameborder=0 allowfullscreen></iframe>
+<p>The clarinet is a woodwind musical instrument that has a single-reed mouthpiece, a straight cylindrical tube with an approximately cylindrical bore, and a flaring bell. The clarinet family is the largest woodwind family, with more than a dozen types. Today, the clarinet is used in jazz and classical ensembles, in chamber groups, and as a solo instrument.<br/><a href=http://en.wikipedia.org/wiki/Clarinet target=_blank>Clarinet - Wikipedia</a></p>
+<img src=images/clarinet.jpg alt=clarinet.jpg title="Clarinet"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=saxophone tabindex=-1 role=dialog aria-labelledby=saxophoneLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=saxophoneLabel>Saxophone</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/izGwDsrQ1eQ frameborder=0 allowfullscreen></iframe>
+<p>The saxophone (also referred to as the sax) is a family of woodwind instruments. Saxophones are usually made of brass and played with a single-reed mouthpiece similar to that of the clarinet. The saxophone family was invented by the Belgian instrument maker Adolphe Sax in 1840. The saxophone is commonly used in classical music (such as concert bands, chamber music, and solo repertoire), military bands, marching bands, and jazz (such as big bands, jazz combos, etc.)<br/><a href=http://en.wikipedia.org/wiki/Saxophone target=_blank>Saxophone - Wikipedia</a></p>
+<img src=images/saxophone.jpg alt=saxophone.jpg title="Saxophone"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=trumpet tabindex=-1 role=dialog aria-labelledby=trumpetLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=trumpetLabel>Trumpet</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/x9_vhYpR9xo frameborder=0 allowfullscreen></iframe>
+<p>The trumpet is an instrument belonging to the brass family. Trumpets are among the oldest musical instruments, dating back to at least 1500 BC. They are played by blowing air through closed lips, producing a "buzzing" sound that starts a standing wave vibration in the air column inside the instrument. Modern trumpets generally have either three piston valves or, more rarely, three rotary valves. Each valve increases the length of tubing when engaged, thereby lowering the pitch.<br/><a href=http://en.wikipedia.org/wiki/Trumpet target=_blank>Trumpet - Wikipedia</a></p>
+<img src=images/trumpet.jpg alt=trumpet.jpg title="Trumpet"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=horn tabindex=-1 role=dialog aria-labelledby=hornLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=hornLabel>Horn</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/KgxuzMilgC8 frameborder=0 allowfullscreen></iframe>
+<p>The horn, also known as the French horn, is a brass instrument made of tubing more than 20 feet (6.1 m) long, wrapped into a coil with a flared bell. The instrument is often informally known as the French horn. However, this is technically incorrect since the instrument is not French in origin, but German. Pitch is controlled through the adjustment of lip tension in the mouthpiece and the operation of valves by the left hand, which route the air into extra tubing.<br/><a href=http://en.wikipedia.org/wiki/Horn_(instrument) target=_blank>Horn - Wikipedia</a></p>
+<img src=images/horn.jpg alt=horn.jpg title="Horn"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=trombone tabindex=-1 role=dialog aria-labelledby=tromboneLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=tromboneLabel>Trombone</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/ZxODzxY6AvI frameborder=0 allowfullscreen></iframe>
+<p>The trombone is a musical instrument in the brass family. Like all brass instruments, sound is produced when the player's vibrating lips cause the air column inside the instrument to vibrate. Nearly all trombones have a telescoping slide mechanism that varies the length of the instrument to change the pitch. The word trombone derives from Italian tromba (trumpet) and -one (a suffix meaning "large"), so the name means "large trumpet".<br/><a href=http://en.wikipedia.org/wiki/Trombone target=_blank>Trombone - Wikipedia</a></p>
+<img src=images/trombone.jpg alt=trombone.jpg title="Trombone"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=euphonium tabindex=-1 role=dialog aria-labelledby=euphoniumLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=euphoniumLabel>Euphonium</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/3ypjN_1Sn1U frameborder=0 allowfullscreen></iframe>
+<p>The euphonium is a conical-bore, baritone-voiced brass instrument. The euphonium derives its name from the Greek word euphonos, meaning "well-sounding" or "sweet-voiced" (eu means "well" or "good" and phonos means "of sound", so "of good sound"). The euphonium is a valved instrument.<br/><a href=http://en.wikipedia.org/wiki/Euphonium target=_blank>Euphonium - Wikipedia</a></p>
+<img src=images/euphonium.jpg alt=euphonium.jpg title="Euphonium"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=tuba tabindex=-1 role=dialog aria-labelledby=tubaLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=tubaLabel>Tuba</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/ONrOhMW7y4s frameborder=0 allowfullscreen></iframe>
+<p>The tuba is the largest and lowest-pitched instrument in the brass family. Sound is produced by vibrating or "buzzing" the lips into a large cupped mouthpiece.<br/><a href=http://en.wikipedia.org/wiki/Tuba target=_blank>Tuba - Wikipedia</a></p>
+<img src=images/tuba.jpg alt=tuba.jpg title="Tuba"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id=drums tabindex=-1 role=dialog aria-labelledby=drumsLabel aria-hidden=true>
+<div class=modal-dialog>
+<div class=modal-content>
+<div class=modal-header>
+<button type=button class=close data-dismiss=modal><span aria-hidden=true>&times;</span><span class=sr-only>Close</span></button>
+<h3 class=modal-title id=drumsLabel>Drums</h3>
+</div>
+<div class=modal-body>
+<iframe class=youtube src=//www.youtube.com/embed/r9bFPsVtXgY frameborder=0 allowfullscreen></iframe>
+<p>The drum is a member of the percussion group of musical instruments. Drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the player's hands, or with a drum stick, to produce sound.
+A drum kit is a collection of drums and other percussion instruments set up to be played by a single player. The first recognizable ancestors of the modern drum kit emerged in the 1920s. A standard modern drum kit contains a snare drum, a bass drum, a hi-hat, one or more tom-tom drums and one or more cymbals. The drum kit differs in general from those traditional instruments that produce melody or chords/pitch.<br/><a href=http://en.wikipedia.org/wiki/Drum_kit target=_blank>Drums - Wikipedia</a></p>
+<img src=images/drums.jpg alt=drums.jpg title="Drums"/>
+</div>
+<div class=modal-footer>
+<button type=button class="btn btn-default" data-dismiss=modal>Close</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class=container>
+<img id=logo src=images/logo1white.png width=180/>
+<br/>
+<p>Virtuoso's Philharmonic School of Music</p>
+<p style="font-family:'Lobster'">Keeping alive the culture of acoustics.</p>
+<p>sales@karthikmusicals.com</p>
+<p>+91-9043245945</p>
+<div class="row" style="text-align:center;color:#fff">
+<a href="https://www.facebook.com/karthikmusicalmart?fref=ts" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+<a href="https://plus.google.com/113071531996832592901" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+</div>
+<br/>
+<div style="text-align:center">
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fkarthikmusicalmart%3Ffref%3Dts&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px; width:130px;" allowTransparency="true"></iframe>
+</div>
+</div>
+</footer>
+<script src=https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js></script>
+<script src=js/bootstrap.min.js></script>
+</body>
+</html>

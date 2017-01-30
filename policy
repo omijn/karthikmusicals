@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<title>Virtuoso's Philharmonic School of Music</title>
+<link rel=canonical href=http://www.karthikmusicals.com>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=keywords content="Karthik, Musicals, class, Virtuoso, Philharmonic, school, Vellore">
+<meta name=description content="Virtuoso's is a music school in Vellore ,Tamil Nadu. We offer the best courses for learning to play instruments.">
+<meta name=author content="Abhijit Kashyap">
+<link rel=icon type=image/ico href=favicon.ico>
+<link rel="shortcut icon" href=favicon.ico>
+<meta property=og:title content="Music Classes in Vellore">
+<meta property=og:site_name content="Virtuoso's Philharmonic School of Music">
+<meta property=og:url content=http://www.karthikmusicals.com>
+<meta property=og:description content="Virtuoso's is a music school in Vellore ,Tamil Nadu. We offer the best courses for learning to play instruments.">
+<meta property=og:image content=http://www.karthikmusicals.com/images/logo.png>
+<meta property=og:type content=website>
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<link href=css/font.css rel=stylesheet>
+<link rel=stylesheet href=fonts/font-awesome-4.2.0/css/font-awesome.min.css>
+<link href=css/bootstrap.min.css rel=stylesheet>
+<link href=css/style.css rel=stylesheet>
+<script>(function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-57562471-1","auto");ga("send","pageview");</script>
+<!--[if lt IE 9]>
+<script src=https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js></script>
+<script src=https://oss.maxcdn.com/respond/1.4.2/respond.min.js></script>
+<![endif]-->
+<script src='/google_analytics_auto.js'></script></head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role=navigation>
+<div class=container>
+<div class=navbar-header>
+<button type=button class="navbar-toggle collapsed" data-toggle=collapse data-target=#navbar aria-expanded=false aria-controls=navbar>
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+</button>
+<a class=navbar-brand href=http://www.karthikmusicals.com><i class="fa fa-home"></i> Home</a>
+</div>
+<div id=navbar class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a href=about>About Us</a></li>
+<li><a href=courses>Courses</a></li>
+<li><a href=ensemble>Ensemble</a></li>
+<li><a href=school>Schools</a></li>
+<li><a href=policy>Policies</a></li>
+<li><a href=testimonial>Testimonials</a></li>
+<li><a href=contact>Contact</a></li>
+<li><a href=http://www.guitarestores.com/ target=_blank>Music Store &nbsp;<i class="fa fa-external-link"></i></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container content">
+<h2>Attendance</h2>
+<p>Regular attendance is expected. If a student must miss a private lesson, he or she must notify
+the school 24 hours ahead of time. A compensation class will be scheduled whenever a free slot
+is available. The music school reserves the right to discontinue at any time a student with poor attendance.
+In case of prolonged illness or injury, the school should be notified accordingly.
+</p>
+<h2>Cancellation by the School</h2>
+<p>If an instructor must cancel a lesson, a make up lesson will be scheduled at a time that is mutually
+convenient for both the student and instructor. A lesson that is cancelled by the instructor and cannot be made up for by the end of the semester will be credited to the student's account. Credit will only remain on account for one year and is not subject to refund.
+</p>
+<h2>Tardiness</h2>
+<p>Students who are late for a lesson cannot be guaranteed their full lesson time. Faculty will wait for a student for one-third of the lesson time before starting another lesson or leaving.
+</p>
+<h2>Fee Payment</h2>
+<p>Cash and card are accepted.</p>
+<p>Fees will be collected on a monthly basis. For an individual, the monthly fee is <span style=font-weight:bold;font-size:1.2em>Rs.1000.</span></p>
+<p>Admission fee and monthly fee are non-refundable and non-transferable to a second instrument.</p>
+<p>The student will have to pay an additional fee of Rs.500 as admission for the second
+instrument.</p>
+<p>Classes are held <span style=font-weight:bold;font-size:1.2em>once a week.</span> The duration of each class is one hour.</p>
+<h2>Withdrawals and Refunds</h2>
+<p>Students are considered to be continuously enrolled for 6 months, ensuring that a time slot and instructor are reserved for them accordingly. In the event that a student chooses to discontinue lessons before the end of the session, a two week return notice must be submitted to the office. Notice to the instructor is not sufficient. Any compensation lessons that have not been taken prior to the withdrawal are forfeited and non-refundable.
+</p>
+<h2>Termination</h2>
+<p>Students who are regularly absent will be asked to leave the school.</p>
+<h2>Family Discount Offer</h2>
+<p>If a family enrolls more than one child, they are entitled to a discount of 20% on the other child on their monthly fees.</p>
+</div>
+<footer>
+<div class=container>
+<img id=logo src=images/logo1white.png width=180/>
+<br/>
+<p>Virtuoso's Philharmonic School of Music</p>
+<p style="font-family:'Lobster'">Keeping alive the culture of acoustics.</p>
+<p>sales@karthikmusicals.com</p>
+<p>+91-9043245945</p>
+<div class="row" style="text-align:center;color:#fff">
+<a href="https://www.facebook.com/karthikmusicalmart?fref=ts" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+<a href="https://plus.google.com/113071531996832592901" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+</div>
+<br/>
+<div style="text-align:center">
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fkarthikmusicalmart%3Ffref%3Dts&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px; width:130px;" allowTransparency="true"></iframe>
+</div>
+</div>
+</footer>
+<script src=https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js></script>
+<script src=js/bootstrap.min.js></script>
+</body>
+</html>

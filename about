@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<title>Virtuoso's Philharmonic School of Music</title>
+<link rel=canonical href=http://www.karthikmusicals.com>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=keywords content="Karthik, Musicals, class, Virtuoso, Philharmonic, school, Vellore">
+<meta name=description content="Virtuoso's is a music school in Vellore ,Tamil Nadu. We offer the best courses for learning to play instruments.">
+<meta name=author content="Abhijit Kashyap">
+<link rel=icon type=image/ico href=favicon.ico>
+<link rel="shortcut icon" href=favicon.ico>
+<meta property=og:title content="Music Classes in Vellore">
+<meta property=og:site_name content="Virtuoso's Philharmonic School of Music">
+<meta property=og:url content=http://www.karthikmusicals.com>
+<meta property=og:description content="Virtuoso's is a music school in Vellore ,Tamil Nadu. We offer the best courses for learning to play instruments.">
+<meta property=og:image content=http://www.karthikmusicals.com/images/logo.png>
+<meta property=og:type content=website>
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<link href=css/font.css rel=stylesheet>
+<link rel=stylesheet href=fonts/font-awesome-4.2.0/css/font-awesome.min.css>
+<link href=css/bootstrap.min.css rel=stylesheet>
+<link href=css/style.css rel=stylesheet>
+<script>(function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-57562471-1","auto");ga("send","pageview");</script>
+<!--[if lt IE 9]>
+<script src=https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js></script>
+<script src=https://oss.maxcdn.com/respond/1.4.2/respond.min.js></script>
+<![endif]--> <script src='/google_analytics_auto.js'></script></head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role=navigation>
+<div class=container>
+<div class=navbar-header>
+<button type=button class="navbar-toggle collapsed" data-toggle=collapse data-target=#navbar aria-expanded=false aria-controls=navbar>
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+</button>
+<a class=navbar-brand href=http://www.karthikmusicals.com><i class="fa fa-home"></i> Home</a>
+</div>
+<div id=navbar class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li class=active><a href=about>About Us</a></li>
+<li><a href=courses>Courses</a></li>
+<li><a href=ensemble>Ensemble</a></li>
+<li><a href=school>Schools</a></li>
+<li><a href=policy>Policies</a></li>
+<li><a href=testimonial>Testimonials</a></li>
+<li><a href=contact>Contact</a></li>
+<li><a href=http://www.guitarestores.com/ target=_blank>Music Store &nbsp;<i class="fa fa-external-link"></i></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container content">
+<h2>About</h2>
+<p class=first>In June 2010, <span class=bigger>Virtuoso's Philharmonic School of Music</span> was opened in Vellore, Tamil Nadu <a style=text-decoration:underline;font-size:1.3em;color:#06f href=contact.html#map>(find us).</a>
+Virtuoso's is a one stop studio for all your music education needs and is
+committed to offering music access to everyone.
+</p>
+<p>We offer a full schedule of <span class=bigger>private lessons, group classes and workshops</span> in a variety of
+music disciplines. Classes are designed to enrich the music education and to unlock the
+creative potential of the student. Both the experienced artist and enthusiastic novice
+will find exciting opportunities at Virtuoso's School of Music.
+</p>
+<p>We are fully equipped with state of the art teaching materials and facilities. A <span class=bigger>jamming room</span> is available, where students can practise their instruments individually or play together as a group.</p>
+<p>We welcome you to contact us and join our family of talented individuals, eager students and appreciators of the fine arts.
+</p>
+<h2>Founder</h2>
+<p>VPSM is led by its founder H.Lieutenant P. Subramani L.M.M.E.(Retired). An Army musician officer with a collective experience of over 32 years in military music wing. During his service in the Indian army he served  as the conductor of The Madras Regiment Military Band and lead numerous parades in different parts of the country. He also served as instructor at the Military Music College, Pachmarhi. Post retirement he served as the principal of Police Training College - Music Wing, Avadi. </p>
+</div>
+<footer>
+<div class=container>
+<img id=logo src=images/logo1white.png width=180/>
+<br/>
+<p>Virtuoso's Philharmonic School of Music</p>
+<p style="font-family:'Lobster'">Keeping alive the culture of acoustics.</p>
+<p>sales@karthikmusicals.com</p>
+<p>+91-9043245945</p>
+<div class="row" style="text-align:center;color:#fff">
+<a href="https://www.facebook.com/karthikmusicalmart?fref=ts" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+<a href="https://plus.google.com/113071531996832592901" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+</div>
+<br/>
+<div style="text-align:center">
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fkarthikmusicalmart%3Ffref%3Dts&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px; width:130px;" allowTransparency="true"></iframe>
+</div>
+</div>
+</footer>
+<script src=https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js></script>
+<script src=js/bootstrap.min.js></script>
+</body>
+</html>
